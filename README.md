@@ -8,10 +8,10 @@ This project is to serve as an example who powerful yet simple language python i
 
 Scripts would be arranged in alphabetical order for easy browsing.
 
-- batch_file_rename.py - This will batch rename a group of files in a given directory, once you pass the current and new extensions. 
-- calculator.py - This is be your typical calculator.
-- chaos.py - This would describe what you would call as chaotic behaviour.
-- check_file.py - This would check a file and if it is readable or not.
+- [batch_file_rename.py](/scripts/batch_file_rename.py) - This will batch rename a group of files in a given directory, once you pass the current and new extensions. 
+- [calculator.py](/scripts/calculator.py) - This is be your typical calculator.
+- [chaos.py](/scripts/chaos.py) - This would describe what you would call as chaotic behaviour.
+- [check_file.py](/scripts/check_file.py) - This would check a file and if it is readable or not.
 
 ## Requirements
 
