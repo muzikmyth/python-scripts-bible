@@ -12,6 +12,8 @@ Scripts would be arranged in alphabetical order for easy browsing.
 - [calculator.py](/scripts/calculator.py) - This is be your typical calculator.
 - [chaos.py](/scripts/chaos.py) - This would describe what you would call as chaotic behaviour.
 - [check_file.py](/scripts/check_file.py) - This would check a file and if it is readable or not.
+- [check_for_sqlite_files.py](/scripts/check_for_sqlite_files.py) - This would check a folder for sqlite files.
+- [check_input.py](/scripts/check_input.py) - This would check if the input is a number or not.
 
 ## Requirements
 
