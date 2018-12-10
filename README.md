@@ -13,7 +13,18 @@ Scripts would be arranged in alphabetical order for easy browsing.
 - [chaos.py](/scripts/chaos.py) - This would describe what you would call as chaotic behaviour.
 - [check_file.py](/scripts/check_file.py) - This would check a file and if it is readable or not.
 - [check_for_sqlite_files.py](/scripts/check_for_sqlite_files.py) - This would check a folder for sqlite files.
-- [check_input.py](/scripts/check_input.py) - This would check if the input is a number or not.
+- [check_internet_con.py](/scripts/check_internet_con.py) - This would check if internet connection works or not.
+- [chicks_n_rabs.py](/scripts/chicks_n_rabs.py) - This code solve the classic ancient Chinese puzzle of Chikens and Rabbits.
+- [counting_sort.py](/scripts/counting_sort.py) - This would sort the elements using counting sort algorithm.
+- [countmillioncharacter.py](/scripts/countmillioncharacter.py) - This would show how Python pairs words with the number of times that number appears in the triple quoted string.
+- [countingcharacters.py](/scripts/countingcharacters.py) - This would count the number of character from a given text file.
+- [create_dir_home.py](/scripts/create_dir_home.py) - This would check if the input is a number or not. 
+- [ccvalid.py](/scripts/ccvalid.py) - Bunch of python codes to validate the entered CC.
+- [criclivescr.py](/scripts/criclivescr.py) - Shows score from cricbuzz.com, for cricket lovers.
+- [criclivescr2.py](/scripts/criclivescr2.py) - Shows live cricket score from cricbuzz.com, for cricket lovers. Modified.
+- [dectohex.py](/scripts/dectohex.py) - Converts decimal number to hexadecimal number. 
+- [dice_rolling_simulator.py](/scripts/dice_rolling_simulator.py) - Dice Rolling Simulator based on python.
+
 
 ## Requirements
 
